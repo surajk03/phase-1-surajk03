@@ -4,7 +4,7 @@
 
 > It is recommended to learn C language before starting any of the programming languages like C++, C#, or Java.
 
-**#Getting started with C**
+# Getting started with C
 
 > Getting started with C involves:
 
@@ -16,7 +16,7 @@
 ```
 
 
-**##The C Character set**
+## The C character set
 
 > A character denotes any alphabet, digit or special symbol used to represent information.
 
