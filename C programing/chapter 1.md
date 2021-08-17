@@ -1,4 +1,4 @@
-**#What is C**
+# what is C
 
 > C is a programming language developed at AT and T's Bell Laboratories of USA in 1972. It was designed and written by a man named Dennis Ritchie.
 
