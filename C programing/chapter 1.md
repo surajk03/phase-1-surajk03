@@ -29,7 +29,7 @@ Digits - 0,1,2,3,4,5,6,7,8,9.
 Special symbols - !,@,#,$,%,&,(),{} etc.....
 ```
 
-**##Constants**
+## Constants
 
 > C constants are classified two types:
 
@@ -53,16 +53,16 @@ Primary constants are calssified into:
 4.Union etc....
 ```
 
-**##Variables**
+## variables
 
 > Variables are the entities which are used to store values that can be changed anytime.
 
-**##Keywords**
+## Key words
 
 > Keywords are the words whose meaning has already been explained to the compiler.
 > It is recommended that keywords cannot be used as variable names. 
 
-**##Comments**
+
 
 > the way of writing comments in a program:
 /*.....*/
