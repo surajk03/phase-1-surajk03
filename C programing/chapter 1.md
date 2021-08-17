@@ -1,10 +1,10 @@
-#**What is C**
+**#What is C**
 
 > C is a programming language developed at AT and T's Bell Laboratories of USA in 1972. It was designed and written by a man named Dennis Ritchie.
 
 > It is recommended to learn C language before starting any of the programming languages like C++, C#, or Java.
 
-#**Getting started with C**
+**#Getting started with C**
 
 > Getting started with C involves:
 
@@ -16,7 +16,7 @@
 ```
 
 
-##**The C Character set**
+**##The C Character set**
 
 > A character denotes any alphabet, digit or special symbol used to represent information.
 
@@ -29,7 +29,7 @@ Digits - 0,1,2,3,4,5,6,7,8,9.
 Special symbols - !,@,#,$,%,&,(),{} etc.....
 ```
 
-##**Constants**
+**##Constants**
 
 > C constants are classified two types:
 
@@ -53,16 +53,16 @@ Primary constants are calssified into:
 4.Union etc....
 ```
 
-##**Variables**
+**##Variables**
 
 > Variables are the entities which are used to store values that can be changed anytime.
 
-##**Keywords**
+**##Keywords**
 
 > Keywords are the words whose meaning has already been explained to the compiler.
 > It is recommended that keywords cannot be used as variable names. 
 
-##**Comments**
+**##Comments**
 
 > the way of writing comments in a program:
 /*.....*/
@@ -72,11 +72,11 @@ Comments are generally written for indicating the purpose of the following progr
 > Comments cannot be nested.
 > Comment can be split over more than one line such type of comments are called multi line comments.
 
-##**main()**
+**##main()**
 
 > main() is a function that contains set of statements which are enclosed in {}.
 
-##**printf()**
+**##printf()**
 
 > printf() is a library function which is used to display the output.
 ```
@@ -85,13 +85,13 @@ Comments are generally written for indicating the purpose of the following progr
 %c - used for printing charcter values.
 ```
 
-##**scanf()**
+**##scanf()**
 
 > scanf() is a library function which is used for recieveing values from the key board.
 
 NOTE: the ampersand(&) before the variables is scanf() is a must, It is an address of operator which gives the location number used by the variable in memory. 
 
-#**C instructions**
+**#C instructions**
 
 Types of instructions:
 
@@ -99,7 +99,7 @@ Types of instructions:
 2.Arithmetic instruction.
 3.Control instruction.
 
-##**Type declaration instruction**
+**##Type declaration instruction**
 
 > This instruction is used to declare the type of variables being used in the program.
 
@@ -109,7 +109,7 @@ Example: int i = 7;
          float a = 1.5;
 ```
 
-##**Arithmetic instruction**
+**##Arithmetic instruction**
 
 > An arithmetic instruction consists of a variable name on the left hand side of = and variable names and constants on the right hand side of =.
 > '=' is called as **Assignment Operator**
@@ -128,7 +128,7 @@ Modulus operator(%): This is used to display the remainder obtained on division 
 
 NOTE: The arithmetic instruction is often used for storing character constants in character variables but these character constants represent only their **ASCII** values.
 
-##**Integer and float conversions**
+**##Integer and float conversions**
 
 > The arithmetic operation between integer and integer always yields an integer result.
 
@@ -136,12 +136,12 @@ NOTE: The arithmetic instruction is often used for storing character constants i
 
 > The arithmetic operation between integer and real always yeilds a real result. In this operation the integer is promoted to a real and then the operation is performed.
 
-##**Type conversion in assignments**
+**##Type conversion in assignments**
 
 > If the type of extension and type of variable on the left hand side of the assignment operator may not be same. In such case the value of the expression is promoted or
   demoted depending on the type of variable on the left hand side of =.
   
-##**Hierachy of operations**
+**##Hierachy of operations**
 
 If we have multiple operators in astatement the we have to follow the following priority order:
 
@@ -151,14 +151,14 @@ If we have multiple operators in astatement the we have to follow the following 
    2nd            + -            addition, subtraction.
    3rd            =              assignment.
    
-##**Associativity of operators**
+**##Associativity of operators**
 
 > When an expression contains two operators of equal priority the tie between them is settled using associativity if operators.
 
 > Associativity of operators in the sense either 1. Left to right associavity.
                                                  2. Right to left associavity.
                                                  
-##**Control instruction**
+**##Control instruction**
 
 > The control instructions enable us to specify the order in which the various instructions in a program are to be executed by the computer.
 
