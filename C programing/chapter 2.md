@@ -19,8 +19,8 @@ if (condition)
    statement;
 ```
 **Note:**
-1. if the condition enclosed in the parenthesis is true then the statement is executed.
-2. if the condition enclosed in the parenthesis is not true then the statement is not executed instead the program skips past it.
+1. Until the condition is true then the statement is executed.
+2. When the condition becomes false then the statement is not executed instead the program skips past it.
 
 > we use relational operators for expressing the condition.
 
